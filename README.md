@@ -7,15 +7,16 @@
 
 <br />
 <div align="center">
-    <a href="https://github.com/joaosouza7/god-of-war-ragnarok">
+    <a href="https://github.com/joaosouza7/league-of-legends-login-page">
     <img src="img/preview.png" alt="Logo" />
     </a>
     <br />
+    <br />
 
   <p align="center">
-    Tela de login do jogo League of Legends
+    Clone da tela de login do jogo League of Legends
     <br />
-    <a href="https://github.com/joaosouza7/god-of-war-ragnarok"><strong>Explore o documento »</strong></a>
+    <a href="https://github.com/joaosouza7/league-of-legends-login-page"><strong>Explore o documento »</strong></a>
     <br />
     <br />
     <img src="https://img.shields.io/github/followers/joaosouza7?style=social" />
